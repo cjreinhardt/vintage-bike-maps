@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1896 Portland, Oregon Bicycle Map'
-author: john_doe
+author: chris_reinhardt
 date: '2019-12-30 10:07:19'
 intro_paragraph: ''
 categories: Oregon
