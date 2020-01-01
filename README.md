@@ -2,5 +2,5 @@
 
 **A collection of vintage bicycle maps.**
 
-Based on Jekyll Netlify Boilerplate.[Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate).
+Based on [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate).
 
