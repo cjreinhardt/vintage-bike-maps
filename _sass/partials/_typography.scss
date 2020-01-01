@@ -89,8 +89,6 @@ a:active {
 }
 
 header > h1 {
-  font-family: 'Playfair Display',Georgia,"Times New Roman",serif;
-  font-weight: 800;
   line-height: $base-line-height;
   font-weight: $base-font-weight;
   @media screen and (min-width: $screen-sm-min) {
@@ -98,15 +96,26 @@ header > h1 {
   }
 }
 
+// Changed header font and style a bit
+header > h1 > a {
+  font-family: 'Playfair Display',Georgia,"Times New Roman",serif;
+  font-weight: 600;
+  text-decoration:underline;
+  text-decoration-color: #FF4A4A!important;
+  font-size:1.3em;
+}
+
 // Added blockquote styles
 
 blockquote {
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: .75em 0 .75em -2.2em;
-    padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: .75em 0 .75em -2.2em;
+  padding: 0 0 0 1.75em;
+  border-left: #4A4A4A 0.4em solid;
 }
 blockquote p {
     font-style: italic;
 }
+
+
