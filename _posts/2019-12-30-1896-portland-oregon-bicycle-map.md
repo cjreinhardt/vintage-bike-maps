@@ -7,6 +7,7 @@ intro_paragraph: ''
 categories: Oregon
 ---
 [![Portland Bicycle Map 1896](/assets/img/uploads/portland-bicycle-map-1896.jpg "Portland Bicycle Map 1896")](/assets/img/uploads/portland-bicycle-map-1896.pdf)
+<!--more-->
 
 Initially found on [this Reddit post](https://www.reddit.com/r/Portland/comments/dwbet8/tbt_portland_district_bicycle_road_map_1896/).  I found a higher resolution version at the [Multnomah County Library](https://gallery.multcolib.org/document/bicycle-road-map-portland-district) that prints out at 29"x26", you can download that version [here (8.7mb)](/assets/img/uploads/portland-bicycle-map-1896.pdf). They have a bit of historical info available [on this page](https://gallery.multcolib.org/document/bicycle-road-map-portland-district), here's an excerpt:
 

@@ -97,7 +97,7 @@ header > h1 {
 }
 
 // Changed header font and style a bit
-header > h1 > a {
+#siteTitle,#siteTitle a:visited{
   font-family: 'Playfair Display',Georgia,"Times New Roman",serif;
   font-weight: 600;
   text-decoration:underline;
