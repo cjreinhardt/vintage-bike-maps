@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome!
+title: Hello!
 permalink: /
 section: home
 intro_paragraph: |
-  A collection of Vintage Bicycle Maps!  More content coming soon...
+  A collection of Vintage Bicycle Maps!  Attempting to find old cycling maps for all 50 states. More content coming soon...
 ---
 
