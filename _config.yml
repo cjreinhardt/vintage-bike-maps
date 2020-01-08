@@ -41,10 +41,6 @@ sass:
 # Compress HTML (in liquid via layouts/compress.html)
 compress_html:
   clippings: all
-  
-# Plugins
-plugins:
-  - jekyll-seo-tag
 
 # set some common post defaults
 defaults:
