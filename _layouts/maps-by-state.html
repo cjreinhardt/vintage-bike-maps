@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+{% include page-intro.html %}
+
+{{ content }}
+
+  <ul class="categories-list">
+    {% for categories in site.categories %}
+    <li><a href="#{{ categories[0] | slugify }}" class="post-category">{{ categories[0] }}</a></li>
+    {% endfor %}
+  </ul>
