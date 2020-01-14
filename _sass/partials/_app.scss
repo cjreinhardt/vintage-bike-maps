@@ -141,7 +141,7 @@ nav[aria-label="Adjacent Posts"] {
 }
 
 // contact form
-html[data-current="contact"] main > form {
+main > form {
   display: grid;
   label {
     display: none;
@@ -180,4 +180,8 @@ footer {
   > small {
     grid-column: main;
   }
+}
+
+small a.readMore{
+  color:#FF4A4A;
 }
