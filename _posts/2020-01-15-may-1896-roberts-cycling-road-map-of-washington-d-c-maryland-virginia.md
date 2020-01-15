@@ -3,6 +3,7 @@ layout: post
 title: 'May, 1896 Robert''s Cycling Road Map of Washington D.C., Maryland & Virginia'
 author: chris_reinhardt
 date: '2020-01-14 19:36:50'
+categories: Washington D.C.
 ---
 [![May 1896 Washington D.C. Cycling Map](/assets/img/uploads/washington-dc-may-1896-roberts-road-map.jpg "May 1896 washington D.C. Cycling Map")](/assets/img/uploads/washington-dc-may-1896-roberts-road-map.jp2)
 
