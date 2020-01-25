@@ -7,7 +7,7 @@ layout: default
 
 <time datetime="{{ page.date }}">
   <small>
-    <strong>{{ post.date | date: "%-m/%d/%Y"  }}</strong>
+    <strong>{{ post.date | date: "%m/%d/%Y"  }}</strong>
     {% if author %}
       by {{ author.name }}
     {% endif %}
