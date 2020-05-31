@@ -10,8 +10,6 @@ featured_image_fullsize_link: /assets/img/uploads/portland-bicycle-map-1896.pdf
 categories: Oregon
 seo_description: A lovely bicycle road map of Portland, Oregon from May of 1896.
 ---
-[![Portland Bicycle Map 1896](/assets/img/uploads/portland-bicycle-map-1896.jpg "Portland Bicycle Map 1896")](/assets/img/uploads/portland-bicycle-map-1896.pdf)
-
 A lovely bicycle road map of Portland, Oregon from May of 1896.  Produced by J.H. Cunningham, and adopted by the Multnomah County Wheelmen.
 
 <!--more-->
