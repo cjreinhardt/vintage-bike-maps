@@ -33,12 +33,14 @@ collections: # A list of collections the CMS should be able to edit
         widget: 'image'
         required: false
         tagname: ''
+        allow_multiple: false
       - {label: "Featured Image Alt", name: "featured_image_alt", widget: "string", required: false}
       - label: 'Featured Image Fullsize/Link'
         name: 'featured_image_fullsize_link'
-        widget: 'image'
+        widget: 'file'
         required: false
         tagname: ''
+        allow_multiple: false
       - {label: "Categories", name: "categories", widget: "string", required: false}
       - {label: "SEO Description", name: "seo_description", widget: "string", required: false}
     # PAGES
