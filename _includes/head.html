@@ -6,6 +6,9 @@
   {% if jekyll.environment == 'production' and site.analytics %}
     {% include analytics.html %}
   {% endif %}
+   {% if seo_description %}
+     <meta name="description" content="{{ seo_description }}">
+    {% endif %}
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
 </head>
