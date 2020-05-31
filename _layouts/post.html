@@ -16,6 +16,15 @@ layout: default
 
 {% include page-intro.html %}
 
+{% if page.featured_image %}
+  {% if page.featured_image_fullsize_link %}
+      <a href="{{ page.featured_image_fullsize_link }}">
+    {% else %}
+      <a href="{{ page.page.featured_image}}">
+    {% endif %}
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" title="{{ page.featured_image_alt }}" class="featuredimage"></a>
+{% endif %}
+
 {{ content }}
 
 <nav aria-label="Adjacent Posts">
