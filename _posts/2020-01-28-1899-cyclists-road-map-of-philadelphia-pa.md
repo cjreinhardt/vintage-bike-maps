@@ -1,8 +1,10 @@
 ---
 layout: post
-title: '1899 Cyclists'' Road Map of the Philadelphia District, Pennsylvania'
+title: 1899 Cyclists' Road Map of the Philadelphia District, Pennsylvania
 author: chris_reinhardt
-date: '2020-01-27 16:32:24'
+date: 2020-01-27 16:32:24
+featured_image: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa-small.jpg
+featured_image_alt: 1899 Cyclists Road Map of the Philadelphia District
 categories: Pennsylvania
 ---
 [![1899 Cyclists Road Map of the Philadelphia District](/assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa-small.jpg "1899 Cyclists' Road Map of the Philadelphia District, PA")](/assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa.jpg)
