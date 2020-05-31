@@ -4,6 +4,9 @@ title: 1896 Portland, Oregon Bicycle Map
 author: chris_reinhardt
 date: 2019-12-30T10:07:19.000Z
 intro_paragraph: ""
+featured_image: /assets/img/uploads/portland-bicycle-map-1896.jpg
+featured_image_alt: Portland Bicycle Map 1896
+featured_image_fullsize_link: /assets/img/uploads/portland-bicycle-map-1896.pdf
 categories: Oregon
 seo_description: A lovely bicycle road map of Portland, Oregon from May of 1896.
 ---
