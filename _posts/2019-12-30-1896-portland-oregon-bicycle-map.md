@@ -2,7 +2,7 @@
 layout: post
 title: 1896 Portland, Oregon Bicycle Map
 author: chris_reinhardt
-date: 2019-12-30 10:07:19
+date: 2019-12-30T10:07:19.000Z
 intro_paragraph: ""
 categories: Oregon
 ---
@@ -18,4 +18,4 @@ Initially found on [this Reddit post](https://www.reddit.com/r/Portland/comments
 
 The Multnomah County Library also has a nice collection of cycling maps from throughout Portland's history, [located here](https://gallery.multcolib.org/collection/bicycling).
 
-*Edit 5/31/20:* I found this post at restoringvintagebicycles.com with an 1897 cycling road guide that's pretty interesting:  [https://restoringvintagebicycles.com/2018/05/25/1897-oregon-bicycle-guide-map/](https://restoringvintagebicycles.com/2018/05/25/1897-oregon-bicycle-guide-map/)
+*Edit 5/31/20:* I found this post at restoringvintagebicycles.com with an 1897 cycling road guide that's pretty interesting. Not produced by the same group as far as I can tell, and a different map altogether:  [https://restoringvintagebicycles.com/2018/05/25/1897-oregon-bicycle-guide-map/](https://restoringvintagebicycles.com/2018/05/25/1897-oregon-bicycle-guide-map/)
