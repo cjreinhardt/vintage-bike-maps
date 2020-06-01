@@ -25,6 +25,10 @@ layout: default
             {% endif %}
           </small>
         </time>
+        {% if post.featured_image %}
+             <a href="{{ post.url }}">
+            <img src="{{ post.featured_image }}" alt="{{ post.featured_image_alt }}" title="{{ post.featured_image_alt }}" class="featuredimage"></a>
+        {% endif %}
         {{ post.excerpt }}
         <small><a href="{{ post.url }}" class="readMore">Read more</a></small>
       </li>
