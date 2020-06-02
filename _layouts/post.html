@@ -18,7 +18,7 @@ layout: default
 
 {% if page.featured_image %}
   {% if page.featured_image_fullsize_link %}
-      <a href="{{ page.featured_image_fullsize_link }}">
+       <a href="{{ page.featured_image_fullsize_link }}" class="fullsizelink">View full size version</a><a href="{{ page.featured_image_fullsize_link }}" class="imagelink">
     {% endif %}
     <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" title="{{ page.featured_image_alt }}" class="featuredimage">
    {% if page.featured_image_fullsize_link %}
