@@ -1,15 +1,12 @@
 ---
-featured_image: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa-small.jpg
 layout: post
 author: chris_reinhardt
 date: 2020-01-27T16:32:24.000Z
-featured_image_alt: 1899 Cyclists Road Map of the Philadelphia District
-featured_image_fullsize_link: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa.jpg
 title: 1899 Cyclists' Road Map of the Philadelphia District, Pennsylvania
-featured_image_widget:
-  featured_image: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa-small.jpg
-  featured_image_alt: 1899 Cyclists Road Map of the Philadelphia District
-  featured_image_fullsize_link: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa.jpg
+featured_image:
+  image: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa-small.jpg
+  image_alt: 1899 Cyclists Road Map of the Philadelphia District
+  image_fullsize_link: /assets/img/uploads/1899-cyclists-road-map-of-the-philadelphia-district-pa.jpg
 categories: Pennsylvania
 seo_description: The '1899 Cyclists' Road Map of the Philadelphia
   District'.  Produced by Geo. H. Walker & Co

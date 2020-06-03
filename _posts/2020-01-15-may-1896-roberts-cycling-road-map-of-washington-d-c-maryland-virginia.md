@@ -1,15 +1,12 @@
 ---
-featured_image: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jpg
 layout: post
 author: chris_reinhardt
 date: 2020-01-14T19:36:50.000Z
-featured_image_alt: May 1896 Washington D.C. Cycling Map
-featured_image_fullsize_link: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jp2
 title: May, 1896 Robert's Cycling Road Map of Washington D.C., Maryland & Virginia
-featured_image_widget:
-  featured_image: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jpg
-  featured_image_alt: May 1896 Washington D.C. Cycling Map
-  featured_image_fullsize_link: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jp2
+featured_image:
+  image: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jpg
+  image_alt: May 1896 Washington D.C. Cycling Map
+  image_fullsize_link: /assets/img/uploads/washington-dc-may-1896-roberts-road-map.jp2
 categories: D.C.
 seo_description: This May, 1896 map covers cycling routes in Washington D.C., as
   well as portions or Maryland and Virginia.
